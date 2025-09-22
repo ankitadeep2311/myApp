@@ -1,2 +1,2 @@
 # myApp
-Calc
+Calculator
